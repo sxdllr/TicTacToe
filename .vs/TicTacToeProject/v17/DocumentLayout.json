@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Work\\Coding\\TicTacToeProject\\",
+  "WorkspaceRootPath": "D:\\Work\\Coding\\GitHub\\TicTacToe\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|D:\\Work\\Coding\\TicTacToeProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|D:\\Work\\Coding\\GitHub\\TicTacToe\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|D:\\Work\\Coding\\TicTacToeProject\\field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|D:\\Work\\Coding\\GitHub\\TicTacToe\\field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{42F4FD84-9224-4ECC-8BBA-902723FD7F7F}|TicTacToeProject.vcxproj|solutionrelative:field.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "field.h",
-              "DocumentMoniker": "D:\\Work\\Coding\\TicTacToeProject\\field.h",
+              "DocumentMoniker": "D:\\Work\\Coding\\GitHub\\TicTacToe\\field.h",
               "RelativeDocumentMoniker": "field.h",
-              "ToolTip": "D:\\Work\\Coding\\TicTacToeProject\\field.h",
+              "ToolTip": "D:\\Work\\Coding\\GitHub\\TicTacToe\\field.h",
               "RelativeToolTip": "field.h",
-              "ViewState": "AQIAAKIAAAAAAAAAAAAUwMEAAAACAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwEwAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-02-17T22:32:34.932Z"
             },
@@ -40,11 +40,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Work\\Coding\\TicTacToeProject\\main.cpp",
+              "DocumentMoniker": "D:\\Work\\Coding\\GitHub\\TicTacToe\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "D:\\Work\\Coding\\TicTacToeProject\\main.cpp",
+              "ToolTip": "D:\\Work\\Coding\\GitHub\\TicTacToe\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAWAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABwAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-02-17T22:32:47.064Z",
               "EditorCaption": ""

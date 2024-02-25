@@ -1,5 +1,5 @@
 ﻿  main.cpp
-D:\Work\Coding\TicTacToeProject\field.h(69,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Work\Coding\GitHub\TicTacToe\field.h(69,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   (компиляция исходного файла "main.cpp")
   
-  TicTacToeProject.vcxproj -> D:\Work\Coding\TicTacToeProject\x64\Debug\TicTacToeProject.exe
+  TicTacToeProject.vcxproj -> D:\Work\Coding\GitHub\TicTacToe\x64\Debug\TicTacToeProject.exe

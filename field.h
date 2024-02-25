@@ -1,4 +1,5 @@
 #pragma once
+
 #include <iostream>
 #include <cstdlib>
 #include <thread>
@@ -45,7 +46,6 @@ public:
             playerInput = 'X';
             std::cout << "You picked: " << GREEN << 'X' << RESET << std::endl;
         }
-
     }
 
     void PlayerMove(uint16_t playerMove) {

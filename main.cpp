@@ -45,9 +45,11 @@ int main() {
         std::cout << "Do you want to play again? [y/n]: ";
         char playAgain;
         std::cin >> playAgain;
-        if (playAgain != 'y') {
-            playAgain = false;
+        if (playAgain == 'y') {
+            playAgain = true;
         }
+        else if (playAgain == 'n')
+            break;
     }
 
     return 0;
